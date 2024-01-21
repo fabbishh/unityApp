@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298319060912",
+    "project_id": "monaco-goal-win",
+    "storage_bucket": "monaco-goal-win.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298319060912:android:e4ae4a3d6f0063aa810075",
+        "android_client_info": {
+          "package_name": "monaco100.sloot.beta.win"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvAowiuHLvJShCdn5CvEYj6AQHm_XPvM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

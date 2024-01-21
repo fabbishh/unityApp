@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id"          translatable="false">undefined</string>
+    <string name="firebase_database_url"          translatable="false">undefined</string>
+    <string name="gcm_defaultSenderId"            translatable="false">298319060912</string>
+    <string name="google_api_key"                 translatable="false">AIzaSyCvAowiuHLvJShCdn5CvEYj6AQHm_XPvM8</string>
+    <string name="google_app_id"                  translatable="false">1:298319060912:android:e4ae4a3d6f0063aa810075</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvAowiuHLvJShCdn5CvEYj6AQHm_XPvM8</string>
+    <string name="google_storage_bucket"          translatable="false">monaco-goal-win.appspot.com</string>
+    <string name="project_id"                     translatable="false">monaco-goal-win</string>
+</resources>
